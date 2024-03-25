@@ -1,0 +1,1 @@
+import{a3 as i}from"./ParticlesComponent-lXlvNY8E.js";import"./index-D-FyKvQZ.js";import"./motion-C0bLFgY8.js";async function n(){i("ease-in-quad",a=>a**2),i("ease-out-quad",a=>1-(1-a)**2),i("ease-in-out-quad",a=>a<.5?2*a**2:1-(-2*a+2)**2/2),await Promise.resolve()}export{n as loadEasingQuadPlugin};
