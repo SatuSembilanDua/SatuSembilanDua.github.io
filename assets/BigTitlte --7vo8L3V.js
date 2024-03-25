@@ -1,1 +1,0 @@
-import{j as t}from"./index-D-FyKvQZ.js";const a=({text:e,top:r,left:i,right:s,bottom:l})=>t.jsx(t.Fragment,{children:t.jsx("h1",{className:"fixed text-color-mainbg/10 z-0 text-[calc(5rem+5vw)] big-title",style:{top:r,left:i,right:s,bottom:l},children:e})});export{a as B};
